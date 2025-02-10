@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Andezahr
-- 👀 I’m interested in Java develepment
-- 🌱 I’m currently learning Spring
+- 🌱 I’m currently learning Spring and reading Spring in Action by Craig Walls
 - 📫 Telegram - @andrzax
 
 <!---
