@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Andezahr
-- 🌱 I’m currently learning Spring and reading Spring in Action by Craig Walls
-- 📫 Telegram - @andrzax
+
 
 <!---
 Andezahr/Andezahr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
