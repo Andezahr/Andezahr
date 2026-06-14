@@ -23,7 +23,7 @@ I have hands-on experience developing a P2P crypto trading platform with Kafka-b
 
 | Category | Technologies & Concepts |
 | :--- | :--- |
-| **Languages** | Java (17/21/24), SQL, Python (Basic) |
+| **Languages** | Java (17/21/25), SQL, Python (Basic) |
 | **Frameworks** | Spring Boot, Spring MVC, Spring Data JPA, Spring Security, Thymeleaf, Resilience4j |
 | **Architecture** | Microservices, Event-Driven Architecture, RESTful API, DDD, SOLID, OOP, Transactional Outbox |
 | **Tools & DBs** | Apache Kafka, Docker, PostgreSQL, H2, Maven, Git, Swagger/OpenAPI, IntelliJ IDEA |
