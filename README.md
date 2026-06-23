@@ -1,62 +1,69 @@
 # Andrey Zakharov
+
 ### Java Backend Developer
 
-📍 Moscow, Russia (Open to remote & business trips) | 📧 [andr.zax@gmail.com](mailto:andr.zax@gmail.com) | ✈️ [@andrzax](https://t.me/andrzax) | 💻 [github.com/Andezahr](https://github.com/Andezahr)
+Moscow, Russia (Open to remote opportunities) | [andr.zax@gmail.com](mailto:andr.zax@gmail.com) | @andrzax | github.com/Andezahr
 
 ---
 
-## 👨‍💻 About Me
-Dedicated Java Backend Developer and BMSTU graduate (2024) with a strong focus on building scalable, event-driven applications using modern Java and the Spring ecosystem. I specialize in clean architecture, Domain-Driven Design (DDD), and ensuring the reliability of complex business logic.
+## About
 
-I have hands-on experience developing a P2P crypto trading platform with Kafka-based event streaming and a web-based RPG character manager. I write clean, maintainable code, deeply understand transactionality and async event processing, and actively leverage AI tools to accelerate development and research architectural solutions. Fast learner, highly adaptable, and passionate about continuous growth as a Software Engineer.
+Java Backend Developer with practical experience building backend applications using Java, Spring Boot, Kafka, and PostgreSQL. BMSTU graduate (2024) interested in distributed systems, event-driven architecture, and designing reliable business logic.
 
----
-
-## 🛠️ Technical Skills
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-| Category | Technologies & Concepts |
-| :--- | :--- |
-| **Languages** | Java (17/21/25), SQL, Python (Basic) |
-| **Frameworks** | Spring Boot, Spring MVC, Spring Data JPA, Spring Security, Thymeleaf, Resilience4j |
-| **Architecture** | Microservices, Event-Driven Architecture, RESTful API, DDD, SOLID, OOP, Transactional Outbox |
-| **Tools & DBs** | Apache Kafka, Docker, PostgreSQL, H2, Maven, Git, Swagger/OpenAPI, IntelliJ IDEA |
-| **Core Concepts** | Concurrency-safe processing, Idempotent consumers, Retry mechanisms, Async event processing |
+Developed a P2P crypto trading platform as a pet project, implementing asynchronous communication with Kafka, transactional outbox, and Telegram notifications. Comfortable working with modern Java, the Spring ecosystem, relational databases, and Docker. I enjoy understanding how systems work under the hood and continuously improving both code quality and architecture.
 
 ---
 
-## 🚀 Key Projects
+## Technical Skills
 
-### 📈 P2P-OMS | Crypto-Fiat Trading Platform
-*Backend for a P2P crypto platform featuring a robust event-driven architecture.*
-- Implemented **Kafka-based event delivery** with a **Transactional Outbox** pattern.
-- Developed **idempotent Kafka consumers** and integrated **retry mechanisms via Resilience4j**.
-- Ensured **concurrency-safe processing** for critical business operations.
-- Built automated **Telegram notifications** for real-time order updates.
-> **Stack:** Java, Spring Boot, Apache Kafka, Resilience4j, PostgreSQL, Docker
-
-### 🎲 Charka | RPG Character Manager
-*A full-stack web application for managing tabletop RPG characters, inventory, and notes.*
-- Designed and implemented a comprehensive **REST API** alongside a server-side rendered UI.
-- Managed complex relational database schemas for inventory, notes, and counters using **Spring Data JPA**.
-> **Stack:** Java, Spring Boot, Spring MVC, Thymeleaf, Spring Data JPA, H2/PostgreSQL
+| Category         | Technologies                                                                       |
+| :--------------- | :--------------------------------------------------------------------------------- |
+| **Languages**    | Java (17/21/25), SQL, Python (Basic)                                               |
+| **Frameworks**   | Spring Boot, Spring MVC, Spring Data JPA, Spring Security, Thymeleaf, Resilience4j |
+| **Architecture** | REST API, Event-Driven Architecture, Domain-Driven Design (DDD), SOLID, OOP        |
+| **Messaging**    | Apache Kafka, Transactional Outbox                                                 |
+| **Databases**    | PostgreSQL, H2                                                                     |
+| **Tools**        | Docker, Git, Maven, Swagger/OpenAPI, IntelliJ IDEA                                 |
 
 ---
 
-## 🎓 Education
-**Bauman Moscow State Technical University (BMSTU)**  
-*Bachelor's Degree* | Graduated: 2024  
+## Projects
+
+### P2P-OMS | Crypto-Fiat Trading Platform
+
+Backend for a P2P cryptocurrency trading platform built around an event-driven architecture.
+
+* Introduced **Kafka-based event delivery** using the **Transactional Outbox** pattern to guarantee reliable event publication after successful database transactions.
+* Implemented **idempotent Kafka consumers** to safely process duplicate messages without affecting business state.
+* Added **retry mechanisms with Resilience4j** to improve resilience against temporary infrastructure failures.
+* Implemented **concurrency control** for critical order operations to prevent duplicate execution during simultaneous requests.
+* Built **asynchronous Telegram notifications** triggered by order lifecycle events.
+
+**Stack:** Java, Spring Boot, Apache Kafka, PostgreSQL, Docker, Resilience4j
 
 ---
 
-## 🌐 Languages & Additional Info
-- **Russian:** Native
-- **English:** B2 (Upper-Intermediate) — Fluent in reading technical documentation and professional communication.
-- **Domain Knowledge:** FinTech, Cryptocurrencies, Manufacturing.
-- **Interests:** Clean Architecture, GameDev (RPG tools), AI-assisted development workflows.
+### Charka | RPG Character Manager
+
+Full-stack web application for managing tabletop RPG characters, inventories, notes, and game resources.
+
+* Designed REST endpoints and server-rendered pages using **Spring MVC** and **Thymeleaf**.
+* Implemented CRUD functionality for characters, inventory, notes, counters, and related game entities.
+* Designed relational database models and entity relationships using **Spring Data JPA**.
+
+**Stack:** Java, Spring Boot, Spring MVC, Thymeleaf, Spring Data JPA, PostgreSQL, H2
+
+---
+
+## Education
+
+**Bauman Moscow State Technical University (BMSTU)**
+Bachelor's Degree
+Graduated: 2024
+
+---
+
+## Languages
+
+* Russian — Native
+* English — B2 (Upper-Intermediate)
