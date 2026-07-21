@@ -1,3 +1,2 @@
-# Andrey Zakharov
-
-Bomonka graduatee, love Jaba, Crypto, Finances
+Bomonka graduate, love Jaba, Crypto, Finances
+Contact me on Telegram: @andrzax
