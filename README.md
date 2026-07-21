@@ -1,3 +1,1 @@
-Bomonka graduate, love Jaba, Crypto, Finances
-
-Contact me on Telegram: @andrzax
+Graduated from Bomonka, now working in crypto and having fun with Jaba. 
