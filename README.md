@@ -1,1 +1,1 @@
-Graduated from Bomonka, now working in crypto and having fun with Jaba. 
+Maybe I'll write something here
